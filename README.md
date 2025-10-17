@@ -1,5 +1,5 @@
 # Differential_amplifier-
-## EXPERIMENT4:DesignaCMOSDifferentialAmplifierandfindouttheTransient,DC and OP analysis.
+## EXPERIMENT 3:DesignaCMOSDifferentialAmplifierandfindouttheTransient,DC and OP analysis.
 ## Aim:
 ToDesignCMOSDifferentialAmplifierandPerformTransient,DCandOPanalysis.
 
