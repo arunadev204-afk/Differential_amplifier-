@@ -1,7 +1,9 @@
 # Differential_amplifier-
-## EXPERIMENT 3:DesignaCMOSDifferentialAmplifierandfindouttheTransient,DC and OP analysis.
+## REG NUM :
+## NAME :
+## EXPERIMENT 3:Design a CMOS Differential Amplifier and find out the Transient, DC and OP analysis.
 ## Aim:
-ToDesignCMOSDifferentialAmplifierandPerformTransient,DCandOPanalysis.
+To Design CMOS Differential Amplifier and Perform Transient, DC and OP analysis.
 
 ## ToolsUsed:
 VirtuosoSchematicEditorisusedforthedesignandanalysis.
